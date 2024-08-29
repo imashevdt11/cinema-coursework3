@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a6fcc59-e53a-471a-8164-4980c8b3bc91" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/opencsv_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSEWORK3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cinema (DEU).docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursework.drawio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/opencsv-5.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/auxiliary/batik-anim-1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/auxiliary/batik-awt-util-1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/auxiliary/batik-bridge-1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/auxiliary/batik-codec-1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/auxiliary/batik-constants-1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/auxiliary/batik-css-1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/auxiliary/batik-dom-1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/auxiliary/batik-ext-1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/auxiliary/batik-gvt-1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/auxiliary/batik-i18n-1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/auxiliary/batik-parser-1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/auxiliary/batik-script-1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/auxiliary/batik-shared-resources-1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/auxiliary/batik-svg-dom-1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/auxiliary/batik-svggen-1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/auxiliary/batik-svgrasterizer-1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/auxiliary/batik-transcoder-1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/auxiliary/batik-util-1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/auxiliary/batik-xml-1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/auxiliary/bcpkix-jdk15on-1.70.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/auxiliary/bcprov-jdk15on-1.70.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/auxiliary/bcutil-jdk15on-1.70.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/auxiliary/fontbox-2.0.26.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/auxiliary/graphics2d-0.40.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/auxiliary/pdfbox-2.0.26.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/auxiliary/xml-apis-1.4.01.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/auxiliary/xml-apis-ext-1.3.04.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/auxiliary/xmlgraphics-commons-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/auxiliary/xmlsec-3.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/lib/SparseBitSet-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/lib/commons-codec-1.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/lib/commons-collections4-4.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/lib/commons-io-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/lib/commons-math3-3.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/lib/log4j-api-2.18.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/ooxml-lib/commons-compress-1.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/ooxml-lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/ooxml-lib/curvesapi-1.07.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/ooxml-lib/jakarta.activation-2.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/ooxml-lib/jakarta.xml.bind-api-3.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/ooxml-lib/slf4j-api-1.7.36.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/ooxml-lib/xmlbeans-5.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/poi-5.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/poi-examples-5.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/poi-excelant-5.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/poi-javadoc-5.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/poi-ooxml-5.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/poi-ooxml-full-5.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/poi-ooxml-lite-5.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-bin-5.2.3/poi-scratchpad-5.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Accounts/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Accounts/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Accounts/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Accounts/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Assignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Session.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/MyConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/useCase.drawio" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2HcBiZCJR1FGuXyLuYzwgQ9cCel" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Wharton/Desktop/coursework_cinema_3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Other.Main" />
+      <module name="COURSEWORK3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a6fcc59-e53a-471a-8164-4980c8b3bc91" name="Changes" comment="" />
+      <created>1668574622415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668574622415</updated>
+      <workItem from="1709872156560" duration="60000" />
+      <workItem from="1709872227565" duration="50000" />
+      <workItem from="1709872307088" duration="43000" />
+      <workItem from="1709881030700" duration="717000" />
+      <workItem from="1714903803882" duration="5000" />
+      <workItem from="1724916020991" duration="113000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Accounts/Visitor.java</url>
+          <line>119</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/COURSEWORK3$Main.ic" NAME="Main Coverage Results" MODIFIED="1671425510882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
